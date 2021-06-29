@@ -7,7 +7,7 @@ function tong(a, b) {
 const a = 20;
 const b = 20;
 
-const data = `${(<div>total:{tong(a, b)}</div>)}`;
+const data = <div>total:{tong(a, b)}</div>;
 
 ReactDOM.render(data, document.getElementById("root"));
 
