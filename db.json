@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "12012000312014343411303",
+      "name": "san pham 12",
+      "price": "",
+      "category": "Danh mục B"
+    },
+    {
+      "id": "40400233023321120334431",
+      "name": "san pham 2",
+      "price": "211212131",
+      "category": "Danh mục A"
+    },
+    {
+      "id": "30220110410213133313404",
+      "name": "san pham1"
+    }
+  ],
+  "users": [
+    {
+      "email": "thangbeo1004@gmail.com",
+      "password": "$2a$10$k2ZN7lLoM8c6vnI/IpYkuezkQDo2mmJxLjwfRSxfzu9fElbnP0z9S",
+      "username": "thangcutedz",
+      "id": 1
+    },
+    {
+      "email": "demo@gmail.com",
+      "password": "$2a$10$9ShkzDMfH58GFdJlbCgJs.WW7BA2.MRnlWItguoN9FYKKy68zSpYS",
+      "username": "demo",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "demo",
+      "id": 2
+    },
+    {
+      "id": "340301302412440201142",
+      "name": "demo2"
+    },
+    {
+      "id": "41223324030423131304431",
+      "name": "demo3"
+    },
+    {
+      "id": "33140330420412323214421",
+      "categoryName": "demo4"
+    }
+  ]
+}
